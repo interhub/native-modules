@@ -1,0 +1,12 @@
+{
+  "name": "natives",
+  "displayName": "natives",
+  "expo": {
+    "name": "natives",
+    "slug": "natives",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
