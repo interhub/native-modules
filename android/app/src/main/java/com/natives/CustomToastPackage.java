@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.natives.CustomToastPackage;
+
 
 public class CustomToastPackage implements ReactPackage {
 
